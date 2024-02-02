@@ -1,0 +1,179 @@
+Watching for file changes with StatReloader
+Error: That port is already in use.
+Watching for file changes with StatReloader
+[01/Jan/2024 12:09:02] code 400, message Bad request version ('\x00\x02\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00')
+[01/Jan/2024 12:09:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:02] code 400, message Bad request version ('=ñâ\x12Kè\x0e"\x170\x92\x05\x96IZ\x12ù¿ÍéKçò\x83^\x05·í04\x04')
+[01/Jan/2024 12:09:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:02] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+[01/Jan/2024 12:09:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:02] code 400, message Bad request version ('pium.siteDi\x00\x05\x00\x03\x02h2\x00-\x00\x02\x01\x01ÿ\x01\x00\x01\x00\x00')
+[01/Jan/2024 12:09:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:02] code 400, message Bad request version ('¼\x06É\\\x00-\x00\x02\x01\x01\x00')
+[01/Jan/2024 12:09:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:02] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00#\x00\x00\x00')
+[01/Jan/2024 12:09:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:08] code 400, message Bad request syntax ("\x16\x03\x01\x02L\x01\x00\x02H\x03\x03&oÎÏZ\x8fºS£Ñ'ê°Xs²0¡Üù2ú\x0fõëÌ\x82")
+[01/Jan/2024 12:09:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:08] code 400, message Bad request version ('Lo\x81\x10\x89m\x01lô×Ft\x81¢p\x84\x18Ð')
+[01/Jan/2024 12:09:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:08] code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+[01/Jan/2024 12:09:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:08] code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01ß')
+[01/Jan/2024 12:09:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:18] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03E\x06±\x98LÀØÏ+ã')
+[01/Jan/2024 12:09:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:18] code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x12\x00\x00\x00')
+[01/Jan/2024 12:09:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:18] code 400, message Bad request version ('H¾ÌÿS\x14\x12¶%Ã¬Ý\x95øg*\x00°\x9f<\x9a:4+³Uw%_óO"ÑÎ\x8c_\x13\x11\x03±lÔ:Wî}5v9äLµ#')
+[01/Jan/2024 12:09:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:18] code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+[01/Jan/2024 12:09:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:22] code 400, message Bad request syntax ('\x16\x03\x01\x02,\x01\x00\x02(\x03\x03\x82tðawdñ\x8b')
+[01/Jan/2024 12:09:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:22] code 400, message Bad request version ('pium.site\x00\x17\x00\x00\x00')
+[01/Jan/2024 12:09:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:22] code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01¿')
+[01/Jan/2024 12:09:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:22] code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+[01/Jan/2024 12:09:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:45] code 400, message Bad request version ('H\x84ÿ')
+[01/Jan/2024 12:09:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:45] code 400, message Bad request version ('à\x88\x89\x99\x9bj;TOÕ3sÕA\x0eÊ\x0eà\x7fT\x84¡\x123O\x8f%\x18\x8a}')
+[01/Jan/2024 12:09:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:45] code 400, message Bad request version (',FêëÔ\x0fËH\x86~!\x8b\x9b&\x02\x04q²YIõ]æÚåB&ß\x00\x17\x00\x00\x00')
+[01/Jan/2024 12:09:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Jan/2024 12:09:45] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00')
+[01/Jan/2024 12:09:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+Watching for file changes with StatReloader
+[03/Jan/2024 15:22:01] "GET /api/qa/6/ HTTP/1.1" 200 4412
+[03/Jan/2024 15:22:41] "GET /api/qa/6/ HTTP/1.1" 200 4412
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 03, 2024 - 15:21:53
+Django version 5.0, using settings 'server.settings'
+Starting development server at https://pium.site/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[03/Jan/2024 15:23:35] "GET /api/scenario/ HTTP/1.1" 200 221
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 03, 2024 - 15:23:34
+Django version 5.0, using settings 'server.settings'
+Starting development server at https://pium.site/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[03/Jan/2024 15:23:55] "GET /api/scenario/ HTTP/1.1" 200 221
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 03, 2024 - 15:23:53
+Django version 5.0, using settings 'server.settings'
+Starting development server at https://pium.site/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+Error: That port is already in use.
+Watching for file changes with StatReloader
+[03/Jan/2024 15:36:18] "GET /api/scenario/ HTTP/1.1" 200 221
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 03, 2024 - 15:36:17
+Django version 5.0, using settings 'server.settings'
+Starting development server at https://pium.site/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[03/Jan/2024 15:38:59] "GET /api/scenario/ HTTP/1.1" 200 221
+[03/Jan/2024 15:39:39] "GET /api/scenario/ HTTP/1.1" 200 221
+[03/Jan/2024 15:39:40] "GET /api/scenario/ HTTP/1.1" 200 221
+[03/Jan/2024 15:39:40] "GET /api/scenario/ HTTP/1.1" 200 221
+[03/Jan/2024 15:39:40] "GET /api/scenario/ HTTP/1.1" 200 221
+[03/Jan/2024 15:39:40] "GET /api/scenario/ HTTP/1.1" 200 221
+[03/Jan/2024 15:39:40] "GET /api/scenario/ HTTP/1.1" 200 221
+[03/Jan/2024 15:39:40] "GET /api/scenario/ HTTP/1.1" 200 221
+[03/Jan/2024 15:39:41] "GET /api/scenario/ HTTP/1.1" 200 221
+[03/Jan/2024 15:39:41] "GET /api/scenario/ HTTP/1.1" 200 221
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Error: That port is already in use.
+[03/Jan/2024 15:41:59] "GET /api/scenario/ HTTP/1.1" 200 221
+[03/Jan/2024 15:42:02] "GET /api/scenario/ HTTP/1.1" 200 221
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 03, 2024 - 15:41:11
+Django version 5.0, using settings 'server.settings'
+Starting development server at https://pium.site/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[03/Jan/2024 15:44:51] "GET /api/scenario/ HTTP/1.1" 200 221
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 03, 2024 - 15:44:44
+Django version 5.0, using settings 'server.settings'
+Starting development server at https://pium.site/
+Quit the server with CONTROL-C.
+
+sudo: /home/ubuntu/anaconda3/envs/mini7/bin/python: command not found
+
+Type 'manage.py help <subcommand>' for help on a specific subcommand.
+
+Available subcommands:
+
+[auth]
+    changepassword
+    createsuperuser
+
+[authtoken]
+    drf_create_token
+
+[contenttypes]
+    remove_stale_contenttypes
+
+[django]
+    check
+    compilemessages
+    createcachetable
+    dbshell
+    diffsettings
+    dumpdata
+    flush
+    inspectdb
+    loaddata
+    makemessages
+    makemigrations
+    migrate
+    optimizemigration
+    sendtestemail
+    shell
+    showmigrations
+    sqlflush
+    sqlmigrate
+    sqlsequencereset
+    squashmigrations
+    startapp
+    startproject
+    test
+    testserver
+
+[drf_yasg]
+    generate_swagger
+
+[rest_framework]
+    generateschema
+
+[sessions]
+    clearsessions
+
+[staticfiles]
+    collectstatic
+    findstatic
+    runserver
